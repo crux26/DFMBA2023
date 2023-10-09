@@ -1,0 +1,13 @@
+#
+pip install jupyter_nbextensions_configurator
+
+#
+jupyter nbextensions_configurator enable --user
+
+#
+pip install jupyter_contrib_nbextensions
+
+#
+jupyter contrib nbextension install --user
+
+# jupyter notebook을 재실행하고 Nbextensions 탭에서 Table of Contents(2)를 활성화한다 
