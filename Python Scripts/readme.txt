@@ -3,6 +3,8 @@ pip list --format=freeze > requirements.txt
 
 # 라이브러리 목록을 이용하여 설치하기
 pip install -r requirements.txt
+# (== conda create env -f /my/YAML/file.yml)
+
 
 # venv 생성하고 activate 하기
 # 서로 다른 파이썬 및 라이브러리 버전을 사용할 경우, 가상 환경을 통해 작업 환경 분리 가능

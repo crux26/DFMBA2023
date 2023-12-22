@@ -1,0 +1,9 @@
+Ctrl+Shift+P <Preferences: Open Keyboard Shortcuts>
+
+"Run cell" 검색 -> "Jupyter: Run Current Cell" -> "Ctrl+Enter"
+
+혹은 "Ctrl+Enter" 검색 후 다른 단축키 우클릭 -> "Remove keybinding" 클릭
+
+---------------
+전/다음 셀로 이동
+Ctrl+Alt+[ (])
